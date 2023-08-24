@@ -1,0 +1,17 @@
+/*  CTRL + K + C atajo rapido para comentar en CSS */
+h1 {
+    color: rgba(203, 89, 7, 0.974);
+    font-size:24px;
+}
+
+p {
+    color: #333;
+    font-style: italic;
+    font-size: 15px;
+
+}
+
+a {
+    color:blueviolet ;
+    font-size: larger;
+}
